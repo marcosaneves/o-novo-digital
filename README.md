@@ -1,2 +1,18 @@
-# o-novo-digital
-a nova informatização
+DESAFIO INDIVIDUAL -FORMULARIO DE CADASDRO PESSOAL
+AUTOR
+MARCOS ALEXANDRE NEVES
+IDADE 51
+TIPO DE DEFICIÊNCIA  
+REABILITADO p/INSS
+perda de força membro superior esquerdo
+
+<!-- FERRAMENTA  -->
+visual studio code 
+
+<!-- LINGUAGEN  -->
+
+-CSS
+-HTML
+-JAVA SCRIPT
+
+
